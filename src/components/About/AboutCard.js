@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Pradnya Waghmare </span>
             from <span className="purple"> Pune, Maharastra.</span>
             <br />
-            I am currently employed as a software developer at WTL pvt. Ltd. Pune
+            I am currently employed as a software developer at Arise Communications Pune
             <br />
             I have completed Postgraduate.
             <br />
